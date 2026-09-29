@@ -24,8 +24,7 @@ A few months later, the United States would also declare war on Austria Hungary,
 The following actions on Belgium and within the Northern Atlantic and Mediterranean Sea, had caused not only internal European conflict, but had also involved North America as well, which further solidifies Germany as responsible for the outbreak of 'world' war and WWI.
 
 #Body2
-Germany's actions using their military was a major cause of the outbreak of World War 1. 
-However, Germany's arms race to form that military should also be taken into account. 
+Germany's military and use of their power would also become a major contributor when discussing World War 1's outbreak, with the formation of that military through arms race.
 Germany's initiation of an arms race against France would cause France to retaliate and begin an arms race themselves. 
 The arms race between the two nations would result in armies of at least 4 million soldiers, with Germany having 4.5 million soldiers by the conclusion of the arms race. 
 With the arms race with France coming to a halt, they had enough to fight on both western and eastern fronts. 
