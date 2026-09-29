@@ -16,12 +16,12 @@ For example, Germany would be the reason why France and Britain had engaged in w
 On August 4, 1914, German mastermind and Field Marshal Alfred Von Schlieffen would have developed an aggressive military strategy known as the Schlieffen Plan, which involved a march of German troops into Belgium to assault the city of Liege. 
 They had left a path of death and destruction during the march as they killed French citizens, and even executing a Belgian Priest who they accused of inciting civilian resistance. 
 This would cause Britain to retaliate, declaring war on Germany, as Britain had sworn by their alliance to France that they would defend the city of Belgium at all costs. 
-This would be the beginning of the divide between European nations ("World War I", ([[https://www.history.com/topics/world-war-i/world-war-i-history]{.underline}](https://www.history.com/topics/world-war-i/world-war-i-history)) ). 
+This would be the beginning of the divide between European nations [@editorsWorldWarSummary2009]. 
 About three years later on April 2, 1917, President Woodrow Wilson of the United States of America would attend a joint session of Congress where he would formally request a declaration of war against Germany. 
 Germany had committed a violation of their pledge to suspend all unrestricted warfare along the North Atlantic and Mediterranean. 
 Aside from Germany acting out of pledge, they would also attempt to entice Mexico into alliancing against the United States, further fueling the fire and tensions between the United States and Germany.
 These were actions which President Wilson cited in the declaration of war against Germany, marking the beginning of the United State's involvement against Germany and the World War.
-A few months later, the United States would also declare war on Austria Hungary, a German ally ("U.S. Entry into World War I, 1917" ([[https://history.state.gov/milestones/1914-1920/wwi)]{.underline}](https://history.state.gov/milestones/1914-1920/wwi))). 
+A few months later, the United States would also declare war on Austria Hungary, a German ally ("U.S. Entry into World War I, 1917" [@MilestonesHistoryUS]. 
 The following actions on Belgium and within the Northern Atlantic and Mediterranean Sea, had caused not only internal European conflict, but had also involved North America as well, which further solidifies Germany as responsible for the outbreak of 'world' war and WWI.
 
 #Body2
@@ -30,11 +30,11 @@ Due to the formation of Germany's millitary, France would also strengthen their 
 The arms race between the two nations would result in armies of at least 4 million soldiers, with Germany having 4.5 million soldiers by the conclusion of the arms race. 
 The arms race with France came to a halt, and they had a strong enough military power to fight on both western and eastern fronts. 
 This would become a significant cause for warfare as European nations did not individually have anywhere near enough soldiers to stand up against Germany. 
-To add on, Germany would also engage in a naval race with Britain, who at the time had the largest naval force in the world ("Germany in World War I:, ([[https://www.historycrunch.com/germany-in-world-war-i.html#/)]{.underline}](https://www.historycrunch.com/germany-in-world-war-i.html#/))). 
+To add on, Germany would also engage in a naval race with Britain, who at the time had the largest naval force in the world [@GermanyWorldWar2017]. 
 Although it may all seem like Germany and opposing nations mutually engaged, Germany's initiation of an arms race against France and Britain were driven by pure desire. 
 This desire involved making the German Empire a viable world power and an integrable industrial nation. 
 Their vision was to dominate in naval warfare, winning a defensive war against the Royal Navy in the North Sea. 
-German strategist Alfre von Tirpitz reasoned that Britain held the key to Germany's future and that defeating their Royal Navy would cause Britain into accepting Germany's vision for equality as a global empire ("Naval Race between Germany and Great Britain, 1898-1912" ([[https://encyclopedia.1914-1918-online.net/article/naval-race-between-germany-and-great-britain-1898-1912/)]{.underline}](https://encyclopedia.1914-1918-online.net/article/naval-race-between-germany-and-great-britain-1898-1912/))). 
+German strategist Alfre von Tirpitz reasoned that Britain held the key to Germany's future and that defeating their Royal Navy would cause Britain into accepting Germany's vision for equality as a global empire[@NavalRaceGermany]. 
 Taking Germany's intentions into consideration, it can be deduced that if Germany had put their selfish and egotistical desires to the side, it is likely the European divide would not have been so significant. 
 Germany's desires for a great and powerful German empire would be the reason for one of the biggest causes of the outbreak of WWI.
 
@@ -42,7 +42,7 @@ Germany's desires for a great and powerful German empire would be the reason for
 Taking a look at Woodrow Wilson's official address to the congress regarding a declaration of war against Germany, it can be seen that Wilson has made it clear to Germany that American Ships are to be neutral and not to be sunk.
 However, it seems that Germany violated those terms which caused a neutral United States to prevent any assist to European nations.
 These sunken ships were being sent to Belgium to aid the injured, sick, and stricken. He declares that due to American ships being sunk, American lives being taken, and so have ships and people of neutral and friendly nations alike, all of which was Germany responsible for, that it is a war against all nations. 
-Wilson states that each nation must decide how they will meet Germany's challenge, and that they are retaliating not for revenge or victory, but for the "vindication of right, of human right." ("Joint Address to Congress Leading to a Declaration of War Against Germany (1917)", [[https://www.archives.gov/milestone-documents/address-to-congress-declaration-of-war-against-germany)]{.underline}](https://www.archives.gov/milestone-documents/address-to-congress-declaration-of-war-against-germany))) 
+Wilson states that each nation must decide how they will meet Germany's challenge, and that they are retaliating not for revenge or victory, but for the "vindication of right, of human right." [@JointAddressCongress2021]
 This official document is a look at Woodrow Wilson's thought process and words when declaring war against Germany. 
 He speaks about the reason for declaring war, and the purpose for doing so. 
 It seems as if Woodrow Wilson is simply retaliating because of Germany's actions towards neutral nations and one of which being America. 
