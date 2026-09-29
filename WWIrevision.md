@@ -34,7 +34,7 @@ Although it may all seem like Germany and opposing nations mutually engaged, Ger
 This desire involved making the German Empire a viable world power and an integrable industrial nation. 
 Their vision was to dominate in naval warfare, winning a defensive war against the Royal Navy in the North Sea. 
 German strategist Alfre von Tirpitz reasoned that Britain held the key to Germany's future and that defeating their Royal Navy would cause Britain into accepting Germany's vision for equality as a global empire ("Naval Race between Germany and Great Britain, 1898-1912" ([[https://encyclopedia.1914-1918-online.net/article/naval-race-between-germany-and-great-britain-1898-1912/)]{.underline}](https://encyclopedia.1914-1918-online.net/article/naval-race-between-germany-and-great-britain-1898-1912/))). 
-Taking Germany's intentions into consideration, it can be deduced that if Germany had put their selfish and egotistical desires to the side, it is likely the European divide would not have been so large. 
+Taking Germany's intentions into consideration, it can be deduced that if Germany had put their selfish and egotistical desires to the side, it is likely the European divide would not have been so significant. 
 Germany's desires for a great and powerful German empire would be the reason for one of the biggest causes of the outbreak of WWI.
 
 #Body3
