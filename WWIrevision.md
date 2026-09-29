@@ -16,8 +16,7 @@ On August 4, 1914, German mastermind and Field Marshal Alfred Von Schlieffen wou
 They had left a path of death and destruction during the march as they killed French citizens, and even executing a Belgian Priest who they accused of inciting civilian resistance. 
 This would cause Britain to retaliate, declaring war on Germany, as Britain had sworn by their alliance to France that they would defend the city of Belgium at all costs. 
 This would be the beginning of the divide between European nations ("World War I", ([[https://www.history.com/topics/world-war-i/world-war-i-history]{.underline}](https://www.history.com/topics/world-war-i/world-war-i-history)) ). 
-About three years later on April 2, 1917, President Woodrow Wilson of the United States of America would attend a joint session of Congress. 
-Here, President Wilson would formally request a declaration of war against Germany. 
+About three years later on April 2, 1917, President Woodrow Wilson of the United States of America would attend a joint session of Congress where he would formally request a declaration of war against Germany. 
 Germany had committed a violation of their pledge to suspend all unrestricted warfare along the North Atlantic and Mediterranean. 
 To add on, Germany would attempt to entice Mexico to alliance against the United States. 
 These two German actions would be the reasons that President Wilson cited as reasons to formally declare war against Germany. 
