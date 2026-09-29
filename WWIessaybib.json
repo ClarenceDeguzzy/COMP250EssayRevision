@@ -1,0 +1,131 @@
+[
+	{
+		"id": "JointAddressCongress2021",
+		"type": "webpage",
+		"abstract": "EnlargeDownload Link Citation: President Wilson's Declaration of War Message to Congress, April 2, 1917; Records of the United States Senate; Record Group 46; National Archives. View All Pages in the National Archives Catalog View Transcript On April 2, 1917, President Woodrow Wilson delivered this address to a joint session of Congress and called for a declaration of war against Germany. The resulting congressional vote brought the United States into World War I.",
+		"citation-key": "JointAddressCongress2021",
+		"container-title": "National Archives",
+		"language": "en",
+		"title": "Joint Address to Congress Leading to a Declaration of War Against Germany (1917)",
+		"URL": "https://www.archives.gov/milestone-documents/address-to-congress-declaration-of-war-against-germany",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					9,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "NavalRaceGermany",
+		"type": "post-weblog",
+		"abstract": "The Anglo-German naval race was the most spectacular strand of the general maritime arms build-up before World War I. Often, albeit misleadingly, described as both the first and the prototypical arms race among modern industrial nations, this arms race resulted from and lent shape to the Anglo-German antagonism.",
+		"citation-key": "NavalRaceGermany",
+		"container-title": "1914-1918-Online (WW1) Encyclopedia",
+		"language": "en-US",
+		"title": "Naval Race between Germany and Great Britain, 1898-1912 / 1.0 / encyclopedic",
+		"URL": "https://encyclopedia.1914-1918-online.net/article/naval-race-between-germany-and-great-britain-1898-1912/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "MilestonesHistoryUS",
+		"type": "webpage",
+		"citation-key": "MilestonesHistoryUS",
+		"title": "Milestones in the History of U.S. Foreign Relations - Office of the Historian",
+		"URL": "https://history.state.gov/milestones/1914-1920/wwi",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					29
+				]
+			]
+		}
+	},
+	{
+		"id": "GermanyWorldWar2017",
+		"type": "post-weblog",
+		"abstract": "Germany in World War I was one of the Central Powers, alongside Austria-Hungary, the Ottoman Empire and Bulgaria. German forces fought across multiple fronts and participated in some of the largest and most important battles of the First World War.",
+		"citation-key": "GermanyWorldWar2017",
+		"language": "en-US",
+		"note": "section: World War I",
+		"title": "Germany in World War I: A Detailed Summary - History Crunch",
+		"title-short": "Germany in World War I",
+		"URL": "https://historycrunch.com/germany-in-world-war-i/",
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					4,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "editorsWorldWarSummary2009",
+		"type": "webpage",
+		"abstract": "Begun in 1914, World War I saw unprecedented levels of carnage.",
+		"citation-key": "editorsWorldWarSummary2009",
+		"container-title": "HISTORY",
+		"language": "en",
+		"note": "section: Encyclopedic",
+		"title": "World War I: Summary, Causes & Facts",
+		"title-short": "World War I",
+		"URL": "https://www.history.com/articles/world-war-i-history",
+		"author": [
+			{
+				"family": "Editors",
+				"given": "HISTORY",
+				"dropping-particle": "com"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2026",
+					9,
+					29
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					10,
+					29
+				]
+			]
+		}
+	}
+]
