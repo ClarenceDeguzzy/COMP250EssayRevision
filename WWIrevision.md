@@ -38,8 +38,9 @@ Taking Germany's intentions into consideration, it can be deduced that if German
 Germany's desires for a great and powerful German empire would be the reason for one of the biggest causes of the outbreak of WWI.
 
 #Body3
-Taking a look at Woodrow Wilson's official address to the congress regarding a declaration of war against Germany, it can be seen that Wilson has made it clear to Germany that ships that have already been sunk are neutral and not to be sunk. 
-These ships are being sent to Belgium to aid the injured, sick, and stricken. He declares that due to American ships being sunk, American lives being taken, and so have ships and people of neutral and friendly nations alike, all of which was Germany responsible for, that it is a war against all nations. 
+Taking a look at Woodrow Wilson's official address to the congress regarding a declaration of war against Germany, it can be seen that Wilson has made it clear to Germany that American Ships are to be neutral and not to be sunk.
+However, it seems that Germany violated those terms which caused a neutral United States to prevent any assist to European nations.
+These ships were being sent to Belgium to aid the injured, sick, and stricken. He declares that due to American ships being sunk, American lives being taken, and so have ships and people of neutral and friendly nations alike, all of which was Germany responsible for, that it is a war against all nations. 
 Wilson states that each nation must decide how they will meet Germany's challenge, and that they are retaliating not for revenge or victory, but for the "vindication of right, of human right." ("Joint Address to Congress Leading to a Declaration of War Against Germany (1917)", [[https://www.archives.gov/milestone-documents/address-to-congress-declaration-of-war-against-germany)]{.underline}](https://www.archives.gov/milestone-documents/address-to-congress-declaration-of-war-against-germany))) 
 This official document is a look at Woodrow Wilson's thought process and words when declaring war against Germany. 
 He speaks about the reason for declaring war, and the purpose for doing so. 
