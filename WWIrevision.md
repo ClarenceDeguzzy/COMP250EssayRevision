@@ -5,7 +5,7 @@ Author: Clarence De Guzman
 
 #Introduction
 The statement that \"A careful analysis of the events following the assassination of Archduke Franz Ferdinand clearly shows that Germany was responsible for the outbreak of WWI\" can be argued from multiple ethical standpoints. 
-However, when analyzing the origins of WW1 from a logical standpoint it stands to show that Germany was the reason for the outbreak of World War <!--my claim-->.
+However, when analyzing the origins of WW1 from a logical standpoint it stands to show that Germany was the reason for the outbreak of World War 1<!--my claim-->.
 
 #Body1
 Germany's inclusion in the war plays a big part to how it was considered a 'world' war. 
