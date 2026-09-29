@@ -19,7 +19,7 @@ This would be the beginning of the divide between European nations ("World War I
 About three years later on April 2, 1917, President Woodrow Wilson of the United States of America would attend a joint session of Congress where he would formally request a declaration of war against Germany. 
 Germany had committed a violation of their pledge to suspend all unrestricted warfare along the North Atlantic and Mediterranean. 
 Aside from Germany acting out of pledge, they would also attempt to entice Mexico into alliancing against the United States, further fueling the fire and tensions between the United States and Germany.
-These two German actions would be the reasons that President Wilson cited as reasons to formally declare war against Germany. 
+These were actions which President Wilson cited in the declaration of war against Germany, marking the beginning of the United State's involvement against Germany and the World War.
 A few months later, the United States would also declare war on Austria Hungary, a German ally ("U.S. Entry into World War I, 1917" ([[https://history.state.gov/milestones/1914-1920/wwi)]{.underline}](https://history.state.gov/milestones/1914-1920/wwi))). 
 The following actions on Belgium and within the Northern Atlantic and Mediterranean Sea, had caused not only internal European conflict, but had also involved North America as well, which further solidifies Germany as responsible for the outbreak of 'world' war and WWI.
 
