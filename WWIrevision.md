@@ -56,17 +56,3 @@ It should be considered that there is a difference between war and world war, an
 This makes the statement that \"A careful analysis of the events following the assassination of Archduke Franz Ferdinand clearly shows that Germany was responsible for the outbreak of WWI.\" True and for valid reason.
 
 #Bibliography
-
-Primary Source
-
-"Joint Address to Congress Leading to a Declaration of War against Germany (1917)." Translated by Woodrow Wilson, *National Archives and Records Administration*, National Archives and Records Administration, www.archives.gov/milestone-documents/address-to-congress-declaration-of-war-against-germany. Accessed 1 Nov. 2024.
-
-Secondary Source
-
-"Naval Race between Germany and Great Britain, 1898-1912 / 1.0 / Encyclopedic - 1914-1918-Online (WW1) Encyclopedia." *1914*, 9 July 2024, encyclopedia.1914-1918-online.net/article/naval-race-between-germany-and-great-britain-1898-1912/.
-
-"U.S. Entry into World War I, 1917." *U.S. Department of State*, U.S. Department of State, history.state.gov/milestones/1914-1920/wwi. Accessed 1 Nov. 2024.
-
-"Germany in World War I." *HISTORY CRUNCH - History Articles, Biographies, Infographics, Resources and More*, www.historycrunch.com/germany-in-world-war-i.html#/. Accessed 1 Nov. 2024.
-
-"World War I: Summary, Causes & Facts." *History.Com*, A&E Television Networks, www.history.com/topics/world-war-i/world-war-i-history. Accessed 1 Nov. 2024.
