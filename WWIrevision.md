@@ -1,6 +1,8 @@
 -----------
 Title: Germany's Responsibility For The Outbreak of WWI
 Author: Clarence De Guzman
+Abstract: |
+    This essay examines the statement that a careful analysis of the events following the assassination of Archduke Franz Ferdinand indicated that Germany was responsible for the outbreak of WWI. It argues that yes, Germany was the country at fault for WWI's outbreak.
 -----------
 
 #Introduction
