@@ -7,10 +7,10 @@ Abstract: |
 
 #Introduction
 The statement that \"A careful analysis of the events following the assassination of Archduke Franz Ferdinand clearly shows that Germany was responsible for the outbreak of WWI\" can be argued from multiple ethical standpoints. 
-When analyzing the events and causes for the outbreak of World War 1, it can be deduced that the statement that Germany was the cause for World War 1's outbreak can be agreed with.<!--my claim-->.
+When analyzing the events and causes for the outbreak of World War 1, it can be deduced that the statement that Germany was the cause for World War 1's outbreak can be agreed with<!--my claim-->.
 
 #Body1
-Germany's inclusion in the war plays a big part to how it was considered a 'world' war. 
+Germany's inclusion into the war plays a major contribution into how multiple countries became involved, effectively shifting it from a war into a 'world' war.
 Germany would be the reason why France and Britain had engaged in warfare with the Triple Alliance. 
 On August 4, 1914, German mastermind and Field Marshal Alfred Von Schlieffen would have developed an aggressive military strategy known as the Schlieffen Plan, which involved a march of German troops into Belgium to assault the city of Liege. 
 They had left a path of death and destruction during the march as they killed French citizens, and even executing a Belgian Priest who they accused of inciting civilian resistance. 
