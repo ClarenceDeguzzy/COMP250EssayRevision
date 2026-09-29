@@ -40,12 +40,13 @@ Germany's desires for a great and powerful German empire would be the reason for
 #Body3
 Taking a look at Woodrow Wilson's official address to the congress regarding a declaration of war against Germany, it can be seen that Wilson has made it clear to Germany that American Ships are to be neutral and not to be sunk.
 However, it seems that Germany violated those terms which caused a neutral United States to prevent any assist to European nations.
-These ships were being sent to Belgium to aid the injured, sick, and stricken. He declares that due to American ships being sunk, American lives being taken, and so have ships and people of neutral and friendly nations alike, all of which was Germany responsible for, that it is a war against all nations. 
+These sunken ships were being sent to Belgium to aid the injured, sick, and stricken. He declares that due to American ships being sunk, American lives being taken, and so have ships and people of neutral and friendly nations alike, all of which was Germany responsible for, that it is a war against all nations. 
 Wilson states that each nation must decide how they will meet Germany's challenge, and that they are retaliating not for revenge or victory, but for the "vindication of right, of human right." ("Joint Address to Congress Leading to a Declaration of War Against Germany (1917)", [[https://www.archives.gov/milestone-documents/address-to-congress-declaration-of-war-against-germany)]{.underline}](https://www.archives.gov/milestone-documents/address-to-congress-declaration-of-war-against-germany))) 
 This official document is a look at Woodrow Wilson's thought process and words when declaring war against Germany. 
 He speaks about the reason for declaring war, and the purpose for doing so. 
 It seems as if Woodrow Wilson is simply retaliating because of Germany's actions towards neutral nations and one of which being America. 
 Wilson seems to believe that Germany is in the wrong mind of morality, and therefore he wishes to correct it and vindicate the rights of humanity.
+This further proves Germany's responsibility for the World War as it clearly shows how opposing sides viewed reckless German actions, and what they mean for the neutral nations.
 
 #Conclusion
 With consideration of Germany's morals in the time of World War I's outbreak, examples being The Schlieffen plan and giving reason for involvement of worldwide nations, initiation of arms and naval races among neighboring European nations, and official statement from a document on Germany's actions in the North Sea, it can be deduced that if Germany had no taken these acts of violence on neutral, allied, and enemy nations alike, the outbreak of 'world' war would not have taken place. 
