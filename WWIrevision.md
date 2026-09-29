@@ -28,11 +28,11 @@ Germany's military and use of their power would also become a major contributor 
 Due to the formation of Germany's millitary, France would also strengthen their military through their own arms race.
 The arms race between the two nations would result in armies of at least 4 million soldiers, with Germany having 4.5 million soldiers by the conclusion of the arms race. 
 The arms race with France came to a halt, and they had a strong enough military power to fight on both western and eastern fronts. 
-This would be a significant cause of war as European nations did not individually have anywhere near enough soldiers to stand up against Germany. 
+This would become a significant cause for warfare as European nations did not individually have anywhere near enough soldiers to stand up against Germany. 
 To add on, Germany would also engage in a naval race with Britain, who at the time had the largest naval force in the world ("Germany in World War I:, ([[https://www.historycrunch.com/germany-in-world-war-i.html#/)]{.underline}](https://www.historycrunch.com/germany-in-world-war-i.html#/))). 
-Although it may all seem like Germany and opposing nations mutually engaged, Germany's initiation of an arms race against France and Britain were driven by desire. 
-This desire was to make the German Empire a viable world power and an integrable industrial nation. 
-Their vision was to dominate naval warfare, winning a defensive war against the Royal Navy in the North Sea. 
+Although it may all seem like Germany and opposing nations mutually engaged, Germany's initiation of an arms race against France and Britain were driven by pure desire. 
+This desire involved making the German Empire a viable world power and an integrable industrial nation. 
+Their vision was to dominate in naval warfare, winning a defensive war against the Royal Navy in the North Sea. 
 German strategist Alfre von Tirpitz reasoned that Britain held the key to Germany's future and that defeating their Royal Navy would cause Britain into accepting Germany's big for equality as a global empire ("Naval Race between Germany and Great Britain, 1898-1912" ([[https://encyclopedia.1914-1918-online.net/article/naval-race-between-germany-and-great-britain-1898-1912/)]{.underline}](https://encyclopedia.1914-1918-online.net/article/naval-race-between-germany-and-great-britain-1898-1912/))). 
 Taking Germany's intentions into consideration, it can be deduced that if Germany had put their selfish and egotistical desires to the side, it is likely the European divide would not have been so large. 
 Germany's desires for a great and powerful German empire would be the reason for one of the biggest causes of the outbreak of WWI.
