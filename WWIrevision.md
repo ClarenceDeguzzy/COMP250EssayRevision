@@ -49,9 +49,9 @@ Wilson seems to believe that Germany is in the wrong mind of morality, and there
 This further proves Germany's responsibility for the World War as it clearly shows how opposing sides viewed reckless German actions, and what they mean for the neutral nations.
 
 #Conclusion
-With consideration of Germany's morals in the time of World War I's outbreak, examples being The Schlieffen plan and giving reason for involvement of worldwide nations, initiation of arms and naval races among neighboring European nations, and official statement from a document on Germany's actions in the North Sea, it can be deduced that if Germany had no taken these acts of violence on neutral, allied, and enemy nations alike, the outbreak of 'world' war would not have taken place. 
+With consideration of Germany's morals in the time of World War I's outbreak, examples being The Schlieffen plan and giving reason for involvement of worldwide nations, initiation of arms and naval races among neighboring European nations, and official statement from a document on Germany's actions in the North Sea, it can be deduced that if Germany had not taken these acts of violence on neutral, allied, and enemy nations alike, the outbreak of 'world' war would not have taken place. 
 However, by the theoretical idea that Germany had not taken acts of violence, war between European nations would have still taken place and not by Germany's responsibility. 
-It should be considered that there is a difference between war and world war, and without Germany's actions war among nations across the globe would not have undergone and would have remained among European nations. 
+It should be considered that there is a difference between war and world war, and without Germany's actions war among nations across the globe would not have undergone and would have remained as a dispute among European nations. 
 This makes the statement that \"A careful analysis of the events following the assassination of Archduke Franz Ferdinand clearly shows that Germany was responsible for the outbreak of WWI.\" True and for valid reason.
 
 #Bibliography
