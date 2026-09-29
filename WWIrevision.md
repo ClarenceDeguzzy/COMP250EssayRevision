@@ -25,7 +25,7 @@ The following actions on Belgium and within the Northern Atlantic and Mediterran
 
 #Body2
 Germany's military and use of their power would also become a major contributor when discussing World War 1's outbreak, with the formation of that military through arms race.
-Germany's initiation of an arms race against France would cause France to retaliate and begin an arms race themselves. 
+Due to the formation of Germany's millitary, France would also strengthen their military through their own arms race.
 The arms race between the two nations would result in armies of at least 4 million soldiers, with Germany having 4.5 million soldiers by the conclusion of the arms race. 
 With the arms race with France coming to a halt, they had enough to fight on both western and eastern fronts. 
 This would be a significant cause of war as European nations did not individually have anywhere near enough soldiers to stand up against Germany. 
