@@ -3,9 +3,11 @@ Title: Germany's Responsibility For The Outbreak of WWI
 Author: Clarence De Guzman
 -----------
 
+#Introduction
 The statement that \"A careful analysis of the events following the assassination of Archduke Franz Ferdinand clearly shows that Germany was responsible for the outbreak of WWI\" can be argued from multiple ethical standpoints. 
 However, when analyzing the origins of WW1 from a logical standpoint it stands to show that Germany was the reason for the outbreak of World War.
 
+#Body1
 Germany's inclusion in the war plays a big part to how it was considered a 'world' war. 
 Germany would be the reason why France and Britain had engaged in warfare with the Triple Alliance. 
 On August 4, 1914, German mastermind and Field Marshal Alfred Von Schlieffen would have developed an aggressive military strategy known as the Schlieffen Plan, which involved a march of German troops into Belgium to assault the city of Liege. 
@@ -20,6 +22,7 @@ These two German actions would be the reasons that President Wilson cited as rea
 A few months later, the United States would also declare war on Austria Hungary, a German ally ("U.S. Entry into World War I, 1917" ([[https://history.state.gov/milestones/1914-1920/wwi)]{.underline}](https://history.state.gov/milestones/1914-1920/wwi))). 
 The following actions on Belgium and within the Northern Atlantic and Mediterranean Sea, had caused not only internal European conflict, but had also involved North America as well, which further solidifies Germany as responsible for the outbreak of 'world' war and WWI.
 
+#Body2
 Germany's actions using their military was a major cause of the outbreak of World War 1. 
 However, Germany's arms race to form that military should also be taken into account. 
 Germany's initiation of an arms race against France would cause France to retaliate and begin an arms race themselves. 
@@ -34,6 +37,7 @@ German strategist Alfre von Tirpitz reasoned that Britain held the key to German
 Taking Germany's intentions into consideration, it can be deduced that if Germany had put their selfish and egotistical desires to the side, it is likely the European divide would not have been so large. 
 Germany's desires for a great and powerful German empire would be the reason for one of the biggest causes of the outbreak of WWI.
 
+#Body3
 Taking a look at Woodrow Wilson's official address to the congress regarding a declaration of war against Germany, it can be seen that Wilson has made it clear to Germany that ships that have already been sunk are neutral and not to be sunk. 
 These ships are being sent to Belgium to aid the injured, sick, and stricken. He declares that due to American ships being sunk, American lives being taken, and so have ships and people of neutral and friendly nations alike, all of which was Germany responsible for, that it is a war against all nations. 
 Wilson states that each nation must decide how they will meet Germany's challenge, and that they are retaliating not for revenge or victory, but for the "vindication of right, of human right." ("Joint Address to Congress Leading to a Declaration of War Against Germany (1917)", [[https://www.archives.gov/milestone-documents/address-to-congress-declaration-of-war-against-germany)]{.underline}](https://www.archives.gov/milestone-documents/address-to-congress-declaration-of-war-against-germany))) 
@@ -42,12 +46,13 @@ He speaks about the reason for declaring war, and the purpose for doing so.
 It seems as if Woodrow Wilson is simply retaliating because of Germany's actions towards neutral nations and one of which being America. 
 Wilson seems to believe that Germany is in the wrong mind of morality, and therefore he wishes to correct it and vindicate the rights of humanity.
 
+#Conclusion
 With consideration of Germany's morals in the time of World War I's outbreak, examples being The Schlieffen plan and giving reason for involvement of worldwide nations, initiation of arms and naval races among neighboring European nations, and official statement from a document on Germany's actions in the North Sea, it can be deduced that if Germany had no taken these acts of violence on neutral, allied, and enemy nations alike, the outbreak of 'world' war would not have taken place. 
 However, by the theoretical idea that Germany had not taken acts of violence, war between European nations would have still taken place and not by Germany's responsibility. 
 It should be considered that there is a difference between war and world war, and without Germany's actions war among nations across the globe would not have undergone and would have remained among European nations. 
 This makes the statement that \"A careful analysis of the events following the assassination of Archduke Franz Ferdinand clearly shows that Germany was responsible for the outbreak of WWI.\" True and for valid reason.
 
-BIBLIOGRAPHY
+#Bibliography
 
 Primary Source
 
